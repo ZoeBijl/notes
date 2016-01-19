@@ -11,3 +11,7 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 * [ ] [The web accessibility basics](https://www.marcozehe.de/2015/12/14/the-web-accessibility-basics/) by Marco Zehe
 * [ ] [The accessibility of HTML 5 autofocus](http://www.brucelawson.co.uk/2009/the-accessibility-of-html-5-autofocus/) by Bruce Lawson
 * [ ] [Building Offline Sites with ServiceWorkers and UpUp](https://dev.opera.com/articles/offline-with-upup-service-workers/)
+
+## ARIA code example
+
+* [Accessible forms with ARIA live regions](http://tink.uk/accessible-forms-with-aria-live-regions/) by Léonie Watson
