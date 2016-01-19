@@ -11,6 +11,7 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 * [ ] [The web accessibility basics](https://www.marcozehe.de/2015/12/14/the-web-accessibility-basics/) by Marco Zehe
 * [ ] [The accessibility of HTML 5 autofocus](http://www.brucelawson.co.uk/2009/the-accessibility-of-html-5-autofocus/) by Bruce Lawson
 * [ ] [Building Offline Sites with ServiceWorkers and UpUp](https://dev.opera.com/articles/offline-with-upup-service-workers/)
+* [ ] [Doesn’t work in lynx](https://www.paciellogroup.com/blog/2014/02/doesnt-work-lynx/) by Steve Faulkner
 
 ## ARIA code example
 
