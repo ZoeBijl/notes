@@ -15,3 +15,7 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 ## ARIA code example
 
 * [Accessible forms with ARIA live regions](http://tink.uk/accessible-forms-with-aria-live-regions/) by Léonie Watson
+
+## ARIA research things
+
+* [What gets focus when form control element is disabled?](https://jsbin.com/qalujo/edit?html,js,console,output) by Rodney Rehm
