@@ -12,7 +12,9 @@ Not sure if this is the best way to go about a reading list, but I want to explo
   * “Accessibility is something you can build into your workflow.”
   * “In our pursuit to make the web more accessible we can be loud and we can be patient, but no matter what, we must be kind.”
 * [ ] [The web accessibility basics](https://www.marcozehe.de/2015/12/14/the-web-accessibility-basics/) by Marco Zehe
-* [ ] [The accessibility of HTML 5 autofocus](http://www.brucelawson.co.uk/2009/the-accessibility-of-html-5-autofocus/) by Bruce Lawson
+* [x] [The accessibility of HTML 5 autofocus](http://www.brucelawson.co.uk/2009/the-accessibility-of-html-5-autofocus/) by Bruce Lawson
+ * “I believe that autofocussing into a form is a usability win for most people if the purpose of the page is that form.”
+ * “Screenreader users find themselves dumped in the middle of a form.”
 * [ ] [Building Offline Sites with ServiceWorkers and UpUp](https://dev.opera.com/articles/offline-with-upup-service-workers/)
 * [x] [Doesn’t work in lynx](https://www.paciellogroup.com/blog/2014/02/doesnt-work-lynx/) by Steve Faulkner
 * [ ] [Being a deaf developer](http://cruft.io/posts/deep-accessibility/) by Hollie Kay
