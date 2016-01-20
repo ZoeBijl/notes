@@ -12,6 +12,7 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 * [ ] [The accessibility of HTML 5 autofocus](http://www.brucelawson.co.uk/2009/the-accessibility-of-html-5-autofocus/) by Bruce Lawson
 * [ ] [Building Offline Sites with ServiceWorkers and UpUp](https://dev.opera.com/articles/offline-with-upup-service-workers/)
 * [ ] [Doesn’t work in lynx](https://www.paciellogroup.com/blog/2014/02/doesnt-work-lynx/) by Steve Faulkner
+* [ ] [Being a deaf developer](http://cruft.io/posts/deep-accessibility/) by Hollie Kay
 
 ## ARIA code example
 
