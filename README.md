@@ -7,7 +7,10 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 
 * [ ] [The Stoic of Open Source](http://amasad.me/2016/01/13/the-stoic-of-open-source/) by Amjad Masad
 * [ ] [Subgrids Considered Essential](http://meyerweb.com/eric/thoughts/2016/01/15/subgrids-considered-essential/) by Eric Meyer
-* [ ] [Being patient vs. being loud](https://the-pastry-box-project.net/marcy-sutton/2015-april-20) by Marcy Sutton
+* [x] [Being patient vs. being loud](https://the-pastry-box-project.net/marcy-sutton/2015-april-20) by Marcy Sutton
+  * “No feedback might reinforce the assumption that ‘the disabled aren’t our audience.’”
+  * “Accessibility is something you can build into your workflow.”
+  * “In our pursuit to make the web more accessible we can be loud and we can be patient, but no matter what, we must be kind.”
 * [ ] [The web accessibility basics](https://www.marcozehe.de/2015/12/14/the-web-accessibility-basics/) by Marco Zehe
 * [ ] [The accessibility of HTML 5 autofocus](http://www.brucelawson.co.uk/2009/the-accessibility-of-html-5-autofocus/) by Bruce Lawson
 * [ ] [Building Offline Sites with ServiceWorkers and UpUp](https://dev.opera.com/articles/offline-with-upup-service-workers/)
