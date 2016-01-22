@@ -27,3 +27,8 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 ## ARIA research things
 
 * [What gets focus when form control element is disabled?](https://jsbin.com/qalujo/edit?html,js,console,output) by Rodney Rehm
+
+## Random thoughts
+
+* London was very sunny last time, not so much right now.
+* If you can sleep during take off; you can pretty much sleep anywhere I guess.
