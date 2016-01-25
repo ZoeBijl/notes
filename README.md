@@ -18,7 +18,8 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 * [ ] [Building Offline Sites with ServiceWorkers and UpUp](https://dev.opera.com/articles/offline-with-upup-service-workers/)
 * [x] [Doesn’t work in lynx](https://www.paciellogroup.com/blog/2014/02/doesnt-work-lynx/) by Steve Faulkner
 * [ ] [Being a deaf developer](http://cruft.io/posts/deep-accessibility/) by Hollie Kay
-* [ ] [Working with Colour in CSS](http://bitsofco.de/working-with-colour-in-css/) by Ire Aderinokun
+* [x] [Working with Colour in CSS](http://bitsofco.de/working-with-colour-in-css/) by Ire Aderinokun
+ * “HSL is seen as a more intuitive format for colour because we are able to reason what a colour might be just from looking at the numeric value.”
 
 ## ARIA code example
 
