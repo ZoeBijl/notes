@@ -21,6 +21,10 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 * [x] [Working with Colour in CSS](http://bitsofco.de/working-with-colour-in-css/) by Ire Aderinokun
  * “HSL is seen as a more intuitive format for colour because we are able to reason what a colour might be just from looking at the numeric value.”
 
+## Watch list
+
+* [ ] [Open Con 2015](http://www.opencon2015.org/resources_opencon2015) (Should pick a couple)
+
 ## ARIA code example
 
 * [Accessible forms with ARIA live regions](http://tink.uk/accessible-forms-with-aria-live-regions/) by Léonie Watson
