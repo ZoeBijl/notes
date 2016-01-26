@@ -21,6 +21,8 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 * [x] [Working with Colour in CSS](http://bitsofco.de/working-with-colour-in-css/) by Ire Aderinokun
  * “HSL is seen as a more intuitive format for colour because we are able to reason what a colour might be just from looking at the numeric value.”
 * [ ] [Privilege and inequality in Silicon Valley](https://medium.com/tech-diversity-files/privilege-and-inequality-in-silicon-valley-92d455b66860#.2mqjnzwwx) by Ricky Yean
+* [ ] [Accessible interfaces (basic recap of WCAG 2.0](https://cfpb.github.io/design-manual/guides/accessible-interfaces.html)
+* [ ] [Accessibility](https://github.com/cfpb/front-end/blob/master/accessibility.md) by Consumer Financial Protection Bureau
 
 ## Watch list
 
