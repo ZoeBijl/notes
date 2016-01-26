@@ -43,3 +43,34 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 
 * [The Paciello Group](http://paciellogroup.com)
 * [MartianCraft](http://martiancraft.com/)
+
+## Software
+
+A list of software I use, want to use, or have used, and thoughts on those.
+
+* OS X
+ * Has been getting worse (and way to heavy for HDD based Macs) but still offers the best experience for me.
+* iTunes
+ * Since the iOS 9 update I have replaced iTunes with Spotify on both OS X and iOS.
+ * Has screwed me over with weird design choices since 2001…
+* Spotify
+ * _love_ it, fast, easy, has everything I want (well, most of the time).
+* Sublime Text
+ * Lack of a “use packages” menu really bugs me. (Maybe there is a package for that).
+ * Performance with larger files is good.
+* Atom
+ * Used thise for about a year and really like it.
+ * Performance with larger files is an issue.
+* Pixelmator
+ * Great product for its price.
+ * Lacks some usability / clearity in certain parts.
+* Things
+ * Maybe it's not the best experience on mobile, but it has served me on both iOS and OS X since 2009.
+ * Lack of accessibility in OS X UI. Should report this to them some day (maybe do an audit).
+* Clear
+ * Lack of contrast on lower priority items really bugs me.
+* Safari
+ * My favourite browser since 2003.
+* Chrome
+ * Have been using this more in recent months.
+ * Good accessibility tools are a reason to use.
