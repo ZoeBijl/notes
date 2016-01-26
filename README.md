@@ -24,6 +24,7 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 ## Watch list
 
 * [ ] [Open Con 2015](http://www.opencon2015.org/resources_opencon2015) (Should pick a couple)
+* [ ] [Can you read me lips?](https://vimeo.com/148127830) starring Rachel Kolb 
 
 ## ARIA code example
 
