@@ -23,6 +23,8 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 * [ ] [Privilege and inequality in Silicon Valley](https://medium.com/tech-diversity-files/privilege-and-inequality-in-silicon-valley-92d455b66860#.2mqjnzwwx) by Ricky Yean
 * [ ] [Accessible interfaces (basic recap of WCAG 2.0](https://cfpb.github.io/design-manual/guides/accessible-interfaces.html)
 * [ ] [Accessibility](https://github.com/cfpb/front-end/blob/master/accessibility.md) by Consumer Financial Protection Bureau
+* [x] [Sources of Innovation](http://fantasai.inkedblade.net/weblog/2011/inside-csswg/input) by fantasai
+ * “IMHO, to pretend that useful innovation can only come from one source is to be blind to the reality of crafting a Web standard.”
 
 ## Watch list
 
