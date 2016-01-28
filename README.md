@@ -44,6 +44,7 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 
 * London was very sunny last time, not so much right now.
 * If you can sleep during take off; you can pretty much sleep anywhere I guess.
+* Rawr!
 
 ## Interesting companies
 
