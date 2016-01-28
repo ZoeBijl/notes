@@ -81,3 +81,8 @@ A list of software I use, want to use, or have used, and thoughts on those.
 * Chrome
  * Have been using this more in recent months.
  * Good accessibility tools are a reason to use.
+* IRCCloud
+ * Was recommended to me by Marco Zehe; so accessibility ought to be good.
+ * Really like to use it, cleaner interface than something like Gitter or Slack.
+ * Well worth the 4 euro/month fee.
+ * Comes in very handy for W3C meetings (and on the go).
