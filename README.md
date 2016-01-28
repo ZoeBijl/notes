@@ -25,6 +25,7 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 * [ ] [Accessibility](https://github.com/cfpb/front-end/blob/master/accessibility.md) by Consumer Financial Protection Bureau
 * [x] [Sources of Innovation](http://fantasai.inkedblade.net/weblog/2011/inside-csswg/input) by fantasai
  * “IMHO, to pretend that useful innovation can only come from one source is to be blind to the reality of crafting a Web standard.”
+* [ ] [The W3C is a restaurant](https://longtermlaziness.wordpress.com/2013/10/08/the-w3c-is-a-restaurant/) by David Bruant
 
 ## Watch list
 
