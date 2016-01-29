@@ -27,7 +27,7 @@ Not sure if this is the best way to go about a reading list, but I want to explo
  * “IMHO, to pretend that useful innovation can only come from one source is to be blind to the reality of crafting a Web standard.”
 * [ ] [The W3C is a restaurant](https://longtermlaziness.wordpress.com/2013/10/08/the-w3c-is-a-restaurant/) by David Bruant
 * [ ] [Basic screen reader commands for accessibility testing](https://www.paciellogroup.com/blog/2015/01/basic-screen-reader-commands-for-accessibility-testing/) by Léonie Watson
-* [x] [Jet-lag study reveals why time changes are a struggle](http://www.ox.ac.uk/news/2013-08-30-jet-lag-study-reveals-why-time-changes-are-struggle)
+* [x] [Jet-lag study reveals why time changes are a struggle](http://www.ox.ac.uk/news/2013-08-30-jet-lag-study-reveals-why-time-changes-are-struggle) by University of Oxford
  * “The SCN receives information from a specialised system in the eyes which senses the time of day by detecting environmental light, and synchronises the clock to local time.”
  * “If you think about it, it makes sense to have a buffering mechanism in place to provide some stability to the clock. The clock needs to be sure that it is getting a reliable signal, and if the signal occurs at the same time over several days it probably has biological relevance.”
  * “More recently, researchers have found that circadian disturbances are a common feature of several mental illnesses, including schizophrenia and bipolar disorder.”
