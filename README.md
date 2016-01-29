@@ -31,6 +31,7 @@ Not sure if this is the best way to go about a reading list, but I want to explo
  * “The SCN receives information from a specialised system in the eyes which senses the time of day by detecting environmental light, and synchronises the clock to local time.”
  * “If you think about it, it makes sense to have a buffering mechanism in place to provide some stability to the clock. The clock needs to be sure that it is getting a reliable signal, and if the signal occurs at the same time over several days it probably has biological relevance.”
  * “More recently, researchers have found that circadian disturbances are a common feature of several mental illnesses, including schizophrenia and bipolar disorder.”
+* [ ] [Why I work remotely (hint: it has nothing to do with productivity).](https://m.signalvnoise.com/why-i-work-remotely-hint-it-has-nothing-to-do-with-productivity-34ace30f74fc#.w8a56l8cd) by Jason Zimdars
 
 ## Watch list
 
