@@ -37,6 +37,7 @@ Not sure if this is the best way to go about a reading list, but I want to explo
  * “The people you love aren’t interruptions, they’re the reason you work at all. Give ’em a hug.”
 * [ ] [Looking at the accessibility of the IRCCloud service](https://www.marcozehe.de/2015/12/07/looking-at-the-accessibility-of-the-irccloud-service/) by Marco Zehe
 * [ ] [Writing resilient unit test](http://engineering.imvu.com/2012/05/08/writing-resilient-unit-tests-3/) by Andrew Wilcox
+* [ ] [Interview with Jingmai O’Connor on scientific publishing and social media](http://www.cell.com/current-biology/fulltext/S0960-9822%2815%2901440-2)
 
 ## Watch list
 
