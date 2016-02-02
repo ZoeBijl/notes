@@ -33,6 +33,7 @@ Not sure if this is the best way to go about a reading list, but I want to explo
  * “More recently, researchers have found that circadian disturbances are a common feature of several mental illnesses, including schizophrenia and bipolar disorder.”
 * [ ] [Why I work remotely (hint: it has nothing to do with productivity).](https://m.signalvnoise.com/why-i-work-remotely-hint-it-has-nothing-to-do-with-productivity-34ace30f74fc#.w8a56l8cd) by Jason Zimdars
 * [ ] [Looking at the accessibility of the IRCCloud service](https://www.marcozehe.de/2015/12/07/looking-at-the-accessibility-of-the-irccloud-service/) by Marco Zehe
+* [ ] [WRITING RESILIENT UNIT TESTS](http://engineering.imvu.com/2012/05/08/writing-resilient-unit-tests-3/) by Andrew Wilcox
 
 ## Watch list
 
