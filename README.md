@@ -45,7 +45,13 @@ Not sure if this is the best way to go about a reading list, but I want to explo
   * I disagree with this, but enough has been said about it elsewhere: “Those who can, publish. Those who can’t, blog.”
     * [Who is Jingmai O’Connor, and why is she saying nasty things about science blogggers?](http://neurodojo.blogspot.nl/2016/02/who-is-jingmai-oconnor-and-why-is-she.html)
     * [Chill out about Jingmai O’Connor’s criticism of bloggers (UPDATED)](https://dynamicecology.wordpress.com/2016/02/02/chill-out-about-jingmai-oconnors-criticism-of-bloggers/)
-* [ ] [Thoughts on screen reader detection](http://tink.uk/thoughts-on-screen-reader-detection/) by Léonie Watson
+* [x] [Thoughts on screen reader detection](http://tink.uk/thoughts-on-screen-reader-detection/) by Léonie Watson
+ * “My disability is personal to me, and I share that information at my discretion.”
+ * “Social segregation is a bad idea.”
+ * “We’ve spent time turning to web standards and feature detection, instead of browser sniffing”
+ * “Most things that make a website usable with a screen reader are achieved by conforming to web standards.”
+ * “What is really being discussed is disability detection, and that is a very different thing altogether.”
+* [ ] [Why screen reader detection on the web is a bad thing](https://www.marcozehe.de/2014/02/27/why-screen-reader-detection-on-the-web-is-a-bad-thing/) by Marco Zehe
 
 ## Watch list
 
