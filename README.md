@@ -42,7 +42,9 @@ Not sure if this is the best way to go about a reading list, but I want to explo
  * “Pure and unadulterated desire for greater knowledge”
  * “Branding science puts focus on making your research appealing, which is extremely limiting, and — dare I say? — corrupts the scientific process.”
  * “I love collaborating—there is no way individuals can be experts in every field”
- * This is obviously false, but enough has been said about it elsewhere: “Those who can, publish. Those who can’t, blog.”
+ * I disagree with this, but enough has been said about it elsewhere: “Those who can, publish. Those who can’t, blog.”
+  * [Who is Jingmai O’Connor, and why is she saying nasty things about science blogggers?](http://neurodojo.blogspot.nl/2016/02/who-is-jingmai-oconnor-and-why-is-she.html)
+  * [Chill out about Jingmai O’Connor’s criticism of bloggers (UPDATED)](https://dynamicecology.wordpress.com/2016/02/02/chill-out-about-jingmai-oconnors-criticism-of-bloggers/)
 * [ ] [Thoughts on screen reader detection](http://tink.uk/thoughts-on-screen-reader-detection/) by Léonie Watson
 
 ## Watch list
