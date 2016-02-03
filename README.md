@@ -37,7 +37,12 @@ Not sure if this is the best way to go about a reading list, but I want to explo
  * “The people you love aren’t interruptions, they’re the reason you work at all. Give ’em a hug.”
 * [ ] [Looking at the accessibility of the IRCCloud service](https://www.marcozehe.de/2015/12/07/looking-at-the-accessibility-of-the-irccloud-service/) by Marco Zehe
 * [ ] [Writing resilient unit test](http://engineering.imvu.com/2012/05/08/writing-resilient-unit-tests-3/) by Andrew Wilcox
-* [ ] [Interview with Jingmai O’Connor on scientific publishing and social media](http://www.cell.com/current-biology/fulltext/S0960-9822%2815%2901440-2)
+* [x] [Interview with Jingmai O’Connor on scientific publishing and social media](http://www.cell.com/current-biology/fulltext/S0960-9822%2815%2901440-2)
+ * “I think the idea that scientists need to operate more like a business is becoming a major problem in science recently.”
+ * “Pure and unadulterated desire for greater knowledge”
+ * “Branding science puts focus on making your research appealing, which is extremely limiting, and — dare I say? — corrupts the scientific process.”
+ * “I love collaborating—there is no way individuals can be experts in every field”
+ * This is obviously false, but enough has been said about it elsewhere: “Those who can, publish. Those who can’t, blog.”
 * [ ] [Thoughts on screen reader detection](http://tink.uk/thoughts-on-screen-reader-detection/) by Léonie Watson
 
 ## Watch list
