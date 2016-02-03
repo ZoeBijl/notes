@@ -35,7 +35,9 @@ Not sure if this is the best way to go about a reading list, but I want to explo
   * “My son usually goes right for my office when he gets home in the afternoon, standing with me at my desk rattling on about his day oblivious that he might be interrupting. I do my best (and sometimes it’s really hard) to stop what I’m doing, turn to him and be present. How many more of those conversations will there be? I’ll take every one I can get.”
   * “You won’t remember working a little later or catching up on Saturday because the people you love interrupted you but you’re certain to remember those little interactions. And even more, they will remember them, too.”
   * “The people you love aren’t interruptions, they’re the reason you work at all. Give ’em a hug.”
-* [ ] [Looking at the accessibility of the IRCCloud service](https://www.marcozehe.de/2015/12/07/looking-at-the-accessibility-of-the-irccloud-service/) by Marco Zehe
+* [x] [Looking at the accessibility of the IRCCloud service](https://www.marcozehe.de/2015/12/07/looking-at-the-accessibility-of-the-irccloud-service/) by Marco Zehe
+ * “James was super responsive in adding the appropriate attributes and also adding his own ideas and asking good questions about details here and there.”
+ * “Interest and willingness to fix these issues is definitely there, so don’t be shy if you want to use IRCCloud and run into problems!”
 * [ ] [Writing resilient unit test](http://engineering.imvu.com/2012/05/08/writing-resilient-unit-tests-3/) by Andrew Wilcox
 * [x] [Interview with Jingmai O’Connor on scientific publishing and social media](http://www.cell.com/current-biology/fulltext/S0960-9822%2815%2901440-2)
   * “I think the idea that scientists need to operate more like a business is becoming a major problem in science recently.”
