@@ -53,6 +53,10 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 
 * [What gets focus when form control element is disabled?](https://jsbin.com/qalujo/edit?html,js,console,output) by Rodney Rehm
 
+## Slides
+
+* [ ] [CSS Best Practices](http://fantasai.inkedblade.net/style/talks/best-practices/) by Fantasai
+
 ## Random thoughts
 
 * London was very sunny last time, not so much right now.
