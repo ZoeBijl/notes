@@ -83,6 +83,7 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 * [ ] [What is WAI-ARIA, what does it do for me, and what not?](https://www.marcozehe.de/2014/03/27/what-is-wai-aria-what-does-it-do-for-me-and-what-not/) by Marco Zehe
 * [x] [Panels and panel sets](http://radar.oreilly.com/2015/11/panels-and-panel-sets.html) by Léonie Watson, Brian Kardell, and Chaals Neville
 * [ ] [My captioning workflow](https://docs.google.com/document/d/1WGO7X9vjnnG5BxzCJGkuN_FTxvBNOGOs5FZ7clKU4iA/edit?pli=1) by Michael Lockrey
+* [ ] [The Ten Rules of a Zen Programmer](https://www.zenprogrammer.org/en/the10rulesofazenprogrammer.html) by Christian Grobmeier
 
 ## Watch list
 
@@ -176,6 +177,7 @@ A list of software I use, want to use, or have used, and thoughts on those.
 * [EnhanceConf](http://enhanceconf.com) in London
 * [CSS Day](http://cssday.nl/2016) in Amsterdam
 * [CSSconf](http://cssconf.no) in Oslo
+* [ScotlandCSS Call for Speakers](http://scotlandcss.com/cfp/)
 
 ## Courses
 
