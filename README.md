@@ -58,11 +58,42 @@ Not sure if this is the best way to go about a reading list, but I want to explo
   * “When content is presented in sequence, we expect to read it and navigate through it in a logical order.”
   * “The first reason aria-flowto does not solve the flexbox disconnect, is because it complicates rather than simplifies the problem.”
   * “The CSS “don’t use it” recommendation is unacceptable.”
+* [ ] [Why We're All Addicted to Texts, Twitter and Google](https://www.psychologytoday.com/blog/brain-wise/201209/why-were-all-addicted-texts-twitter-and-google) by Susan Weinschenk
+* [ ] [Effectively including accessibility into web developer training](http://www.karlgroves.com/2015/12/03/effectively-including-accessibility-into-web-developer-training/) by Karl Groves
+* [ ] [Don’t Be Afraid To Be Personal](https://the-pastry-box-project.net/vitaly-friedman/2015-may-15) by Vitaly Friedman
+* [ ] [Give Grunt the Boot! A Guide to Using npm as a Build Tool](http://www.sitepoint.com/guide-to-npm-as-a-build-tool/) by Peter Dierx
+* [ ] [Responsive Progressive Accessible Vanilla Search](http://adrianroselli.com/2015/12/responsive-progressive-accessible-vanilla-search.html) by Adrian Roselli
+* [ ] [Making Accessibility Simpler, With Ally.js](https://www.smashingmagazine.com/2015/12/making-accessibility-simpler/) by Rodney Rehm
+* [x] [How to map your Mac’s CapsLock key to a NVDA or JAWS key in a Windows virtual machine](https://www.marcozehe.de/2015/06/07/how-to-map-your-macs-capslock-key-to-a-nvda-or-jaws-key-in-a-windows-virtual-machine/) by Marco Zehe
+* [ ] [HTML Developers: Please Consider](http://html5doctor.com/html-developers-please-consider/) by Steve Faulkner
+* [ ] [Flexbox Grid Finesse](https://medium.com/@Heydon/flexbox-grid-finesse-4d22b80bfee1#.oh9afklx8) by  Heydon Pickering
+* [ ] [Links are not buttons. Neither are DIVs and SPANs](http://www.karlgroves.com/2013/05/14/links-are-not-buttons-neither-are-divs-and-spans/) by Karl Groves
+* [ ] [A guide to publish articles in Open Access](http://www.neutronsources.org/news/neutron-journals/open-access-guide.html) by Mathilde Pascal <3
+* [ ] [Testing Using a Screen Reader](https://gist.github.com/callumacrae/8a93d9e870f5a8bf01c7) by Callum Macrae
+* [ ] [The Elements of Typographic Style Applied to the Web](http://webtypography.net/) by Richard Rutter
+* [ ] [How Open Sourcing My Personal Goals Made Me Really Productive](http://una.im/personal-goals-guide/#=%81) by Una Kravets
+* [ ] [Let Links Be Links](http://alistapart.com/article/let-links-be-links) by Ross Penman
+* [ ] [WCAG 2.0 Parsing Criterion is a PITA](https://www.paciellogroup.com/blog/2015/11/wcag-2-0-parsing-criterion-is-a-pita/) by Steve Faulkner
+* [ ] [Peering Into The Minds Of The 4.3 Billion Unconnected](http://techcrunch.com/2014/11/29/peering-into-the-minds-of-the-4-3-billion-unconnected/) by Hassan Baig
+* [ ] [Losing sight](http://tink.uk/losing-sight/) by Léonie Watson
+* [ ] [Use On-Page Image Descriptions](http://adrianroselli.com/2015/09/use-on-page-image-descriptions.html) by Adrian Roselli
+* [ ] [CSS-Driven Internationalization In JavaScript](https://www.smashingmagazine.com/2014/06/css-driven-internationalization-in-javascript/) by Maksim Chemerisuk
+* [ ] [What is Audio Description?](http://www.nomensa.com/blog/2010/what-is-audio-description) by Léonie Watson
+* [ ] [Introducing Slot-Based Shadow DOM API](https://webkit.org/blog/4096/introducing-shadow-dom-api/) by Ryosuke Niwa
+* [ ] [What is WAI-ARIA, what does it do for me, and what not?](https://www.marcozehe.de/2014/03/27/what-is-wai-aria-what-does-it-do-for-me-and-what-not/) by Marco Zehe
+* [x] [Panels and panel sets](http://radar.oreilly.com/2015/11/panels-and-panel-sets.html) by Léonie Watson, Brian Kardell, and Chaals Neville
+* [ ] [My captioning workflow](https://docs.google.com/document/d/1WGO7X9vjnnG5BxzCJGkuN_FTxvBNOGOs5FZ7clKU4iA/edit?pli=1) by Michael Lockrey
 
 ## Watch list
 
 * [ ] [Open Con 2015](http://www.opencon2015.org/resources_opencon2015) (Should pick a couple)
 * [ ] [Can you read me lips?](https://vimeo.com/148127830) starring Rachel Kolb 
+* [ ] [Tenon.io Training Demo](https://www.youtube.com/watch?v=d_ZsXr0da_k) by Karl Groves
+* [ ] [Improving Single Page App Accessibility with a11y_kit](https://vimeo.com/117614181) by Patrick Fox
+* [ ] [Accessibility and how to get the most from your screenreader](https://www.youtube.com/watch?v=eAgJ9hV_oOM) by Edd Sowden
+* [ ] [Breaking the Broken Web](https://www.youtube.com/watch?v=FhbMNV-FAIQ) by Kyle Simpson
+* [x] [Pageload Perf Audits with DevTools Filmstrip in Chrome](https://www.youtube.com/watch?v=tCfF6HI0JKs) by Paul Irish
+* [ ] [Everything you need to know about Javascript Accessibility](https://www.youtube.com/watch?v=baR9OvL4g7w) by Karl Groves
 
 ## ARIA code example
 
@@ -72,9 +103,22 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 
 * [What gets focus when form control element is disabled?](https://jsbin.com/qalujo/edit?html,js,console,output) by Rodney Rehm
 
+## Interesting documents
+
+* [User Agent Accessibility Guidelines (UAAG)](http://www.w3.org/TR/UAAG20/)
+* [Notes on Using ARIA in HTML (Editors Draft)](http://w3c.github.io/aria-in-html/)
+* [Accessibility API (Unofficial Draft)](https://wicg.github.io/a11yapi/)
+
+## Projects
+
+* [HIKE](http://accessibility.parseapp.com/)
+* [ally.js](http://allyjs.io)
+* [Nu HTML Checker](https://validator.w3.org/nu/)
+
 ## Slides
 
 * [ ] [CSS Best Practices](http://fantasai.inkedblade.net/style/talks/best-practices/) by Fantasai
+* [ ] [Accessibility Nerdvana](https://docs.google.com/presentation/d/1FdtnfClD0opNv3nXZYDdgoj-rNEg1o_VW2YJo0dljaw/present?slide=id.g50e70a5e1_0_0) by Steve Faulkner
 
 ## Random thoughts
 
@@ -126,3 +170,13 @@ A list of software I use, want to use, or have used, and thoughts on those.
 ## Music
 
 * [Field Division](http://www.fielddivisionmusic.com/)
+
+## Conferences
+
+* [EnhanceConf](http://enhanceconf.com) in London
+* [CSS Day](http://cssday.nl/2016) in Amsterdam
+* [CSSconf](http://cssconf.no) in Oslo
+
+## Courses
+
+* [Gravity! From the Big Bang to Black Holes](https://www.futurelearn.com/courses/gravity)
