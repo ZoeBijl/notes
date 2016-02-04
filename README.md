@@ -54,7 +54,10 @@ Not sure if this is the best way to go about a reading list, but I want to explo
   * “Most things that make a website usable with a screen reader are achieved by conforming to web standards.”
   * “What is really being discussed is disability detection, and that is a very different thing altogether.”
 * [ ] [Why screen reader detection on the web is a bad thing](https://www.marcozehe.de/2014/02/27/why-screen-reader-detection-on-the-web-is-a-bad-thing/) by Marco Zehe
-* [ ] [Flexbox & the keyboard navigation disconnect](http://tink.uk/flexbox-the-keyboard-navigation-disconnect/) by Léonie Watson
+* [x] [Flexbox & the keyboard navigation disconnect](http://tink.uk/flexbox-the-keyboard-navigation-disconnect/) by Léonie Watson
+  * “When content is presented in sequence, we expect to read it and navigate through it in a logical order.”
+  * “The first reason aria-flowto does not solve the flexbox disconnect, is because it complicates rather than simplifies the problem.”
+  * “The CSS “don’t use it” recommendation is unacceptable.”
 
 ## Watch list
 
