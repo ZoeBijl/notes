@@ -91,6 +91,7 @@ Not sure if this is the best way to go about a reading list, but I want to explo
   * Could be said for any new value or unit that is added to CSS.
   * “Now I’m sure browser makers can find ways to optimize this process, but it’s bound to affect the rendering time. And not in a positive way.” Well, sure, but neither does adding 3MB of JavaScript, and we do that all the time.
   * “Honestly, I love using variables…” Me too!
+* [ ] [Short note on improving usability of scrollable regions](https://www.paciellogroup.com/blog/2016/02/short-note-on-improving-usability-of-scrollable-regions/) by Steve Faulkner
 
 ## Watch list
 
