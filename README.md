@@ -84,6 +84,7 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 * [x] [Panels and panel sets](http://radar.oreilly.com/2015/11/panels-and-panel-sets.html) by Léonie Watson, Brian Kardell, and Chaals Nevile
 * [ ] [My captioning workflow](https://docs.google.com/document/d/1WGO7X9vjnnG5BxzCJGkuN_FTxvBNOGOs5FZ7clKU4iA/edit?pli=1) by Michael Lockrey
 * [ ] [The Ten Rules of a Zen Programmer](https://www.zenprogrammer.org/en/the10rulesofazenprogrammer.html) by Christian Grobmeier
+* [ ] [Three common accessibility pitfalls for developers: text alternatives](http://simplyaccessible.com/article/three-pitfalls-text-alternatives/) by Julie Grundy
 
 ## Watch list
 
