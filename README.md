@@ -81,7 +81,7 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 * [ ] [What is Audio Description?](http://www.nomensa.com/blog/2010/what-is-audio-description) by Léonie Watson
 * [ ] [Introducing Slot-Based Shadow DOM API](https://webkit.org/blog/4096/introducing-shadow-dom-api/) by Ryosuke Niwa
 * [ ] [What is WAI-ARIA, what does it do for me, and what not?](https://www.marcozehe.de/2014/03/27/what-is-wai-aria-what-does-it-do-for-me-and-what-not/) by Marco Zehe
-* [x] [Panels and panel sets](http://radar.oreilly.com/2015/11/panels-and-panel-sets.html) by Léonie Watson, Brian Kardell, and Chaals Neville
+* [x] [Panels and panel sets](http://radar.oreilly.com/2015/11/panels-and-panel-sets.html) by Léonie Watson, Brian Kardell, and Chaals Nevile
 * [ ] [My captioning workflow](https://docs.google.com/document/d/1WGO7X9vjnnG5BxzCJGkuN_FTxvBNOGOs5FZ7clKU4iA/edit?pli=1) by Michael Lockrey
 * [ ] [The Ten Rules of a Zen Programmer](https://www.zenprogrammer.org/en/the10rulesofazenprogrammer.html) by Christian Grobmeier
 
@@ -103,6 +103,7 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 ## ARIA research things
 
 * [What gets focus when form control element is disabled?](https://jsbin.com/qalujo/edit?html,js,console,output) by Rodney Rehm
+* [Notes on making the W3C process diagrams accessible](http://svg-access-w3cg.github.io/use-case-examples/rectrack2-notes.html) by Chaals
 
 ## Interesting documents
 
