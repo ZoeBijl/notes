@@ -85,6 +85,7 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 * [ ] [My captioning workflow](https://docs.google.com/document/d/1WGO7X9vjnnG5BxzCJGkuN_FTxvBNOGOs5FZ7clKU4iA/edit?pli=1) by Michael Lockrey
 * [ ] [The Ten Rules of a Zen Programmer](https://www.zenprogrammer.org/en/the10rulesofazenprogrammer.html) by Christian Grobmeier
 * [ ] [Three common accessibility pitfalls for developers: text alternatives](http://simplyaccessible.com/article/three-pitfalls-text-alternatives/) by Julie Grundy
+* [ ] [A Brief(ish) History of the Web Universe: Part III The Early Web](https://briankardell.wordpress.com/2016/02/05/a-briefish-history-of-the-web-universe-part-iii-the-early-web/) by Brian Kardell
 
 ## Watch list
 
