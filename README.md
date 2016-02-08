@@ -75,7 +75,17 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 * [ ] [Let Links Be Links](http://alistapart.com/article/let-links-be-links) by Ross Penman
 * [ ] [WCAG 2.0 Parsing Criterion is a PITA](https://www.paciellogroup.com/blog/2015/11/wcag-2-0-parsing-criterion-is-a-pita/) by Steve Faulkner
 * [ ] [Peering Into The Minds Of The 4.3 Billion Unconnected](http://techcrunch.com/2014/11/29/peering-into-the-minds-of-the-4-3-billion-unconnected/) by Hassan Baig
-* [ ] [Losing sight](http://tink.uk/losing-sight/) by Léonie Watson
+* [x] [Losing sight](http://tink.uk/losing-sight/) by Léonie Watson
+  * “We’d fall out of clubs at 6am and drive to Glastonbury Tor to watch the sunrise just for the hell of it.”
+  * “If enough insulin isn’t available then the cells in your body are starved of energy and begin to die and the excess glucose remains trapped in your blood-stream.”
+  * “Until that moment I had never believed people when they said an emotional reaction could be like a physical blow.”
+  * “Whilst I was asleep my mind appeared to have wrapped itself around the enormity of what was happening. This wasn’t any kind of revelation, but it was a recognition of what I was up against, and that was enough for the time-being.”
+  * “I’m one of the few who can see nothing at all, and nothing is the best way to describe it. People assume it must be like closing your eyes or being in a dark room, but it’s not like that at all. It’s a complete absence of light, so it isn’t black or any other colour I can describe.”
+  * “Since my mind is constrained only by my imagination, it rather charmingly overlays everything with millions of tiny sparkles of light, that vary in brightness and intensity depending on my emotional state.”
+  * “Oddly this is the one thing that still makes me feel a little uncertain about being blind, but given that I no longer really remember what I look like, perhaps there will come a time when that uncertainty will fade.”
+  * “I did learn something far more important though. I discovered something called a screen reader.”
+  * “I still find technology challenging sometimes, because we have yet to reach a time when things are engineered to be accessible as standard.”
+  * “So life moved on, as life has a habit of doing.”
 * [ ] [Use On-Page Image Descriptions](http://adrianroselli.com/2015/09/use-on-page-image-descriptions.html) by Adrian Roselli
 * [ ] [CSS-Driven Internationalization In JavaScript](https://www.smashingmagazine.com/2014/06/css-driven-internationalization-in-javascript/) by Maksim Chemerisuk
 * [ ] [What is Audio Description?](http://www.nomensa.com/blog/2010/what-is-audio-description) by Léonie Watson
