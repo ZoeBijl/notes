@@ -11,7 +11,11 @@ Not sure if this is the best way to go about a reading list, but I want to explo
   * “No feedback might reinforce the assumption that ‘the disabled aren’t our audience.’”
   * “Accessibility is something you can build into your workflow.”
   * “In our pursuit to make the web more accessible we can be loud and we can be patient, but no matter what, we must be kind.”
-* [ ] [The web accessibility basics](https://www.marcozehe.de/2015/12/14/the-web-accessibility-basics/) by Marco Zehe
+* [-] [The web accessibility basics](https://www.marcozehe.de/2015/12/14/the-web-accessibility-basics/) by Marco Zehe
+  * “_All_ img tags require an alt attribute. This goes _without exception_.”
+  * More information about alt text can be found in this [WAI alt text decision tree](https://www.w3.org/WAI/tutorials/images/decision-tree/).
+  * “In fact, when dealing with many web developers, I am surprised that many don’t even seem to be aware that there is a label element”
+  * “Do not, under any circumstances, use the placeholder attribute as the label for an input element!”
 * [x] [The accessibility of HTML 5 autofocus](http://www.brucelawson.co.uk/2009/the-accessibility-of-html-5-autofocus/) by Bruce Lawson
   * “I believe that autofocussing into a form is a usability win for most people if the purpose of the page is that form.”
   * “Screenreader users find themselves dumped in the middle of a form.”
