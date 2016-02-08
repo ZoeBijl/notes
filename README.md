@@ -95,6 +95,8 @@ Not sure if this is the best way to go about a reading list, but I want to explo
   * “Making a scrollable region operable for keyboard users is pretty simple. Add `tabindex="0"`”
   * “Provide a clear indication of focus on the scrollable region so keyboard users know where they are.”
 * [ ] [Machine code for beginners](http://www.usborne.com/downloads/books/1980s-computer-books/machine-code-for-beginners.pdf)
+* [ ] [Why “variables” in CSS are harmful](https://www.w3.org/People/Bos/CSS-variables) by Bert Bos
+  * Current implementations aren't so much variables as they are constants.
 
 ## Watch list
 
