@@ -105,6 +105,7 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 * [ ] [Breaking the Broken Web](https://www.youtube.com/watch?v=FhbMNV-FAIQ) by Kyle Simpson
 * [x] [Pageload Perf Audits with DevTools Filmstrip in Chrome](https://www.youtube.com/watch?v=tCfF6HI0JKs) by Paul Irish
 * [ ] [Everything you need to know about Javascript Accessibility](https://www.youtube.com/watch?v=baR9OvL4g7w) by Karl Groves
+* [ ] [Radical keyboard surfing](https://vimeo.com/148443332) by Isabel Brison
 
 ## ARIA code example
 
