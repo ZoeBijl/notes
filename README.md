@@ -156,6 +156,7 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 * [HIKE](http://accessibility.parseapp.com/)
 * [ally.js](http://allyjs.io)
 * [Nu HTML Checker](https://validator.w3.org/nu/)
+* [Pa11y](http://pa11y.org/)
 
 ## Slides
 
@@ -190,6 +191,8 @@ A list of software I use, want to use, or have used, and thoughts on those.
 * Atom
   * Used thise for about a year and really like it.
   * Performance with larger files is an issue.
+* TextMate
+  * Has good accessibility.
 * Pixelmator
   * Great product for its price.
   * Lacks some usability / clearity in certain parts.
