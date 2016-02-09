@@ -26,7 +26,13 @@ Not sure if this is the best way to go about a reading list, but I want to explo
   * “Screenreader users find themselves dumped in the middle of a form.”
 * [ ] [Building Offline Sites with ServiceWorkers and UpUp](https://dev.opera.com/articles/offline-with-upup-service-workers/)
 * [x] [Doesn’t work in lynx](https://www.paciellogroup.com/blog/2014/02/doesnt-work-lynx/) by Steve Faulkner
-* [ ] [Being a deaf developer](http://cruft.io/posts/deep-accessibility/) by Hollie Kay
+* [x] [Being a deaf developer](http://cruft.io/posts/deep-accessibility/) by Hollie Kay
+  * “Specifications and bugs come to you (in an ideal world, at least) on paper and in ticketing systems instead of through other people’s noiseholes.”
+  * “The stereotype of a programmer as a solitary eccentric who’s allergic to human company is unfair and inaccurate.”
+  * On pair programming: “Plus, y’know, it’s fun. You get to know your colleagues. You get to remind yourself that everyone makes mistakes sometimes.”
+  * “Using Screenhero to set up a remote pairing session meant that we could both look at the screen and use text to communicate, losing no information and generating no confusion.”
+  * “They make no assumptions about ability and provide full access by default.”
+  * “Accessibility is considered a niche discipline. It shouldn’t be.”
 * [x] [Working with Colour in CSS](http://bitsofco.de/working-with-colour-in-css/) by Ire Aderinokun
   * “HSL is seen as a more intuitive format for colour because we are able to reason what a colour might be just from looking at the numeric value.”
 * [ ] [Privilege and inequality in Silicon Valley](https://medium.com/tech-diversity-files/privilege-and-inequality-in-silicon-valley-92d455b66860#.2mqjnzwwx) by Ricky Yean
