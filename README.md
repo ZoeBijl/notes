@@ -11,11 +11,16 @@ Not sure if this is the best way to go about a reading list, but I want to explo
   * “No feedback might reinforce the assumption that ‘the disabled aren’t our audience.’”
   * “Accessibility is something you can build into your workflow.”
   * “In our pursuit to make the web more accessible we can be loud and we can be patient, but no matter what, we must be kind.”
-* [-] [The web accessibility basics](https://www.marcozehe.de/2015/12/14/the-web-accessibility-basics/) by Marco Zehe
+* [x] [The web accessibility basics](https://www.marcozehe.de/2015/12/14/the-web-accessibility-basics/) by Marco Zehe
   * “_All_ img tags require an alt attribute. This goes _without exception_.”
   * More information about alt text can be found in this [WAI alt text decision tree](https://www.w3.org/WAI/tutorials/images/decision-tree/).
   * “In fact, when dealing with many web developers, I am surprised that many don’t even seem to be aware that there is a label element”
   * “Do not, under any circumstances, use the placeholder attribute as the label for an input element!”
+  * “But I still find in modern web applications in 2015, cases where layout tables are being used to align form fields and their labels to one another. STOP DOING THAT! PLEASE!”
+  * “JavaScript dynamics in itself are no problem to accessibility, only some specific behaviors can be, like losing keyboard focus.”
+  * Colour contrast is important (and that's coming from a blind guy!)
+  * “please keep the Pinch To Zoom gesture alive!”
+  * “Adhering to semantic structures that HTML already offers today will get you a long long way towards accessible web content.”
 * [x] [The accessibility of HTML 5 autofocus](http://www.brucelawson.co.uk/2009/the-accessibility-of-html-5-autofocus/) by Bruce Lawson
   * “I believe that autofocussing into a form is a usability win for most people if the purpose of the page is that form.”
   * “Screenreader users find themselves dumped in the middle of a form.”
@@ -111,6 +116,7 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 * [ ] [Machine code for beginners](http://www.usborne.com/downloads/books/1980s-computer-books/machine-code-for-beginners.pdf)
 * [ ] [Why “variables” in CSS are harmful](https://www.w3.org/People/Bos/CSS-variables) by Bert Bos
   * Current implementations aren't so much variables as they are constants.
+* [ ] [Creating Accessible Tables](http://webaim.org/techniques/tables/) by WebAIM
 
 ## Watch list
 
