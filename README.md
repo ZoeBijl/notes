@@ -123,6 +123,8 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 * [ ] [Why “variables” in CSS are harmful](https://www.w3.org/People/Bos/CSS-variables) by Bert Bos
   * Current implementations aren't so much variables as they are constants.
 * [ ] [Creating Accessible Tables](http://webaim.org/techniques/tables/) by WebAIM
+* [x] [LIGO sees gravitational waves](http://www.symmetrymagazine.org/article/ligo-sees-gravitational-waves) by Lauren Biron
+  * “LIGO is so sensitive, it can detect if the distance between its mirrors changes by 1/10,000 the width of a proton – a positively minuscule measurement.”
 
 ## Watch list
 
