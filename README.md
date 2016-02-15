@@ -125,14 +125,14 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 * [ ] [Creating Accessible Tables](http://webaim.org/techniques/tables/) by WebAIM
 * [x] [LIGO sees gravitational waves](http://www.symmetrymagazine.org/article/ligo-sees-gravitational-waves) by Lauren Biron
   * “LIGO is so sensitive, it can detect if the distance between its mirrors changes by 1/10,000 the width of a proton – a positively minuscule measurement.”
-* [x] [Interstellar‘s true black hole too confusing](https://www.newscientist.com/article/mg22530095-200-interstellars-true-black-hole-too-confusing/)
+* [x] [Interstellar‘s true black hole too confusing](https://www.newscientist.com/article/mg22530095-200-interstellars-true-black-hole-too-confusing/) by Jacob Aron
   * “The result looked good, but the central black hole seemed to be squashed up against one side. That’s because the black hole had to spin very fast to cause the movie’s time dilation effects, dragging the light to one side.”
   * “The black hole’s rotation turned the glowing red matter a cool blue, thanks to the Doppler effect shortening the wavelength of the light it gave off.”
 
 ## Watch list
 
 * [ ] [Open Con 2015](http://www.opencon2015.org/resources_opencon2015) (Should pick a couple)
-* [ ] [Can you read me lips?](https://vimeo.com/148127830) starring Rachel Kolb 
+* [x] [Can you read me lips?](https://vimeo.com/148127830) starring Rachel Kolb 
 * [ ] [Tenon.io Training Demo](https://www.youtube.com/watch?v=d_ZsXr0da_k) by Karl Groves
 * [ ] [Improving Single Page App Accessibility with a11y_kit](https://vimeo.com/117614181) by Patrick Fox
 * [ ] [Accessibility and how to get the most from your screenreader](https://www.youtube.com/watch?v=eAgJ9hV_oOM) by Edd Sowden
