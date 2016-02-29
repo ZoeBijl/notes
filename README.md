@@ -130,6 +130,7 @@ Not sure if this is the best way to go about a reading list, but I want to explo
   * “The result looked good, but the central black hole seemed to be squashed up against one side. That’s because the black hole had to spin very fast to cause the movie’s time dilation effects, dragging the light to one side.”
   * “The black hole’s rotation turned the glowing red matter a cool blue, thanks to the Doppler effect shortening the wavelength of the light it gave off.”
   * [ ] [The Art of Consensus](https://www.w3.org/Guide/)
+  * [ ] [Why I got into this and why I’m still here](http://simplyaccessible.com/article/why-i-got-into-this/) by Elle Waters
 
 ## Watch list
 
