@@ -159,6 +159,7 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 * [Notes on Using ARIA in HTML (Editors Draft)](http://w3c.github.io/aria-in-html/)
 * [Accessibility API (Unofficial Draft)](https://wicg.github.io/a11yapi/)
 * [Accessibility Requirements for People with Low Vision](https://www.w3.org/TR/2016/WD-low-vision-needs-20160317/)
+* [Mixed Content](https://w3c.github.io/webappsec-mixed-content/)
 
 ## Projects
 
