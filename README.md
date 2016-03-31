@@ -143,6 +143,7 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 * [x] [Pageload Perf Audits with DevTools Filmstrip in Chrome](https://www.youtube.com/watch?v=tCfF6HI0JKs) by Paul Irish
 * [ ] [Everything you need to know about Javascript Accessibility](https://www.youtube.com/watch?v=baR9OvL4g7w) by Karl Groves
 * [ ] [Radical keyboard surfing](https://vimeo.com/148443332) by Isabel Brison
+* [ ] [Why Keyboard Usability Is More Important Than You Think](https://www.usertesting.com/blog/2014/10/08/why-keyboard-usability-is-more-important-than-you-think/) by David Sloan and Sarah Horton
 
 ## ARIA code example
 
