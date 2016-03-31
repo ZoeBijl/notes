@@ -132,11 +132,11 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 * [ ] [The Art of Consensus](https://www.w3.org/Guide/)
 * [ ] [Why I got into this and why I’m still here](http://simplyaccessible.com/article/why-i-got-into-this/) by Elle Waters
 * [x] [Why Keyboard Usability Is More Important Than You Think](https://www.usertesting.com/blog/2014/10/08/why-keyboard-usability-is-more-important-than-you-think/) by David Sloan and Sarah Horton
-* Two fundamental actions that form the basis of keyboard interaction:
-	1. **Moving focus** to the next active element on a page
-	2. **Activating** the element that currently has focus
-- “Keyboard usability benefits everyone”
-- “Some people simply prefer the keyboard as a more efficient input method.”
+	- Two fundamental actions that form the basis of keyboard interaction:
+		1. **Moving focus** to the next active element on a page
+		2. **Activating** the element that currently has focus
+	- “Keyboard usability benefits everyone”
+	- “Some people simply prefer the keyboard as a more efficient input method.”
 
 ## Watch list
 
