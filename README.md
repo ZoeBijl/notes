@@ -129,8 +129,14 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 * [x] [Interstellar‘s true black hole too confusing](https://www.newscientist.com/article/mg22530095-200-interstellars-true-black-hole-too-confusing/) by Jacob Aron
   * “The result looked good, but the central black hole seemed to be squashed up against one side. That’s because the black hole had to spin very fast to cause the movie’s time dilation effects, dragging the light to one side.”
   * “The black hole’s rotation turned the glowing red matter a cool blue, thanks to the Doppler effect shortening the wavelength of the light it gave off.”
-  * [ ] [The Art of Consensus](https://www.w3.org/Guide/)
-  * [ ] [Why I got into this and why I’m still here](http://simplyaccessible.com/article/why-i-got-into-this/) by Elle Waters
+* [ ] [The Art of Consensus](https://www.w3.org/Guide/)
+* [ ] [Why I got into this and why I’m still here](http://simplyaccessible.com/article/why-i-got-into-this/) by Elle Waters
+* [x] [Why Keyboard Usability Is More Important Than You Think](https://www.usertesting.com/blog/2014/10/08/why-keyboard-usability-is-more-important-than-you-think/) by David Sloan and Sarah Horton
+* Two fundamental actions that form the basis of keyboard interaction:
+	1. **Moving focus** to the next active element on a page
+	2. **Activating** the element that currently has focus
+- “Keyboard usability benefits everyone”
+- “Some people simply prefer the keyboard as a more efficient input method.”
 
 ## Watch list
 
@@ -142,8 +148,8 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 * [ ] [Breaking the Broken Web](https://www.youtube.com/watch?v=FhbMNV-FAIQ) by Kyle Simpson
 * [x] [Pageload Perf Audits with DevTools Filmstrip in Chrome](https://www.youtube.com/watch?v=tCfF6HI0JKs) by Paul Irish
 * [ ] [Everything you need to know about Javascript Accessibility](https://www.youtube.com/watch?v=baR9OvL4g7w) by Karl Groves
-* [ ] [Radical keyboard surfing](https://vimeo.com/148443332) by Isabel Brison
-* [ ] [Why Keyboard Usability Is More Important Than You Think](https://www.usertesting.com/blog/2014/10/08/why-keyboard-usability-is-more-important-than-you-think/) by David Sloan and Sarah Horton
+* [x] [Radical keyboard surfing](https://vimeo.com/148443332) by Isabel Brison
+* Point to [APG: 2.19 Menu or Menu bar](https://www.w3.org/TR/wai-aria-practices-1.1/#menu)
 
 ## ARIA code example
 
@@ -190,38 +196,38 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 A list of software I use, want to use, or have used, and thoughts on those.
 
 * OS X
-  * Has been getting worse (and way to heavy for HDD based Macs) but still offers the best experience for me.
+	  * Has been getting worse (and way to heavy for HDD based Macs) but still offers the best experience for me.
 * iTunes
-  * Since the iOS 9 update I have replaced iTunes with Spotify on both OS X and iOS.
-  * Has screwed me over with weird design choices since 2001…
+	  * Since the iOS 9 update I have replaced iTunes with Spotify on both OS X and iOS.
+	  * Has screwed me over with weird design choices since 2001…
 * Spotify
-  * _love_ it, fast, easy, has everything I want (well, most of the time).
+	  * _love_ it, fast, easy, has everything I want (well, most of the time).
 * Sublime Text
-  * Lack of a “use packages” menu really bugs me. (Maybe there is a package for that).
-  * Performance with larger files is good.
+	  * Lack of a “use packages” menu really bugs me. (Maybe there is a package for that).
+	  * Performance with larger files is good.
 * Atom
-  * Used thise for about a year and really like it.
-  * Performance with larger files is an issue.
+	  * Used thise for about a year and really like it.
+	  * Performance with larger files is an issue.
 * TextMate
-  * Has good accessibility.
+	  * Has good accessibility.
 * Pixelmator
-  * Great product for its price.
-  * Lacks some usability / clearity in certain parts.
+	  * Great product for its price.
+	  * Lacks some usability / clearity in certain parts.
 * Things
-  * Maybe it's not the best experience on mobile, but it has served me on both iOS and OS X since 2009.
-  * Lack of accessibility in OS X UI. Should report this to them some day (maybe do an audit).
+	  * Maybe it's not the best experience on mobile, but it has served me on both iOS and OS X since 2009.
+	  * Lack of accessibility in OS X UI. Should report this to them some day (maybe do an audit).
 * Clear
-  * Lack of contrast on lower priority items really bugs me.
+	  * Lack of contrast on lower priority items really bugs me.
 * Safari
-  * My favourite browser since 2003.
+	  * My favourite browser since 2003.
 * Chrome
-  * Have been using this more in recent months.
-  * Good accessibility tools are a reason to use.
+	  * Have been using this more in recent months.
+	  * Good accessibility tools are a reason to use.
 * IRCCloud
-  * Was recommended to me by Marco Zehe; so accessibility ought to be good.
-  * Really like to use it, cleaner interface than something like Gitter or Slack.
-  * Well worth the 4 euro/month fee.
-  * Comes in very handy for W3C meetings (and on the go).
+	  * Was recommended to me by Marco Zehe; so accessibility ought to be good.
+	  * Really like to use it, cleaner interface than something like Gitter or Slack.
+	  * Well worth the 4 euro/month fee.
+	  * Comes in very handy for W3C meetings (and on the go).
 
 ## Music
 
