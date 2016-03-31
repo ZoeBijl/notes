@@ -149,7 +149,7 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 * [x] [Pageload Perf Audits with DevTools Filmstrip in Chrome](https://www.youtube.com/watch?v=tCfF6HI0JKs) by Paul Irish
 * [ ] [Everything you need to know about Javascript Accessibility](https://www.youtube.com/watch?v=baR9OvL4g7w) by Karl Groves
 * [x] [Radical keyboard surfing](https://vimeo.com/148443332) by Isabel Brison
-* Point to [APG: 2.19 Menu or Menu bar](https://www.w3.org/TR/wai-aria-practices-1.1/#menu)
+	* Point to [APG: 2.19 Menu or Menu bar](https://www.w3.org/TR/wai-aria-practices-1.1/#menu)
 
 ## ARIA code example
 
