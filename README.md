@@ -239,6 +239,7 @@ A list of software I use, want to use, or have used, and thoughts on those.
 * [CSS Day](http://cssday.nl/2016) in Amsterdam
 * [CSSconf](http://cssconf.no) in Oslo
 * [ScotlandCSS Call for Speakers](http://scotlandcss.com/cfp/)
+* [CascadiaFEST Call for Speakers](https://speak.cascadiafest.org/)
 
 ## Courses
 
