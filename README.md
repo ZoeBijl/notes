@@ -73,7 +73,13 @@ Not sure if this is the best way to go about a reading list, but I want to explo
   * “When content is presented in sequence, we expect to read it and navigate through it in a logical order.”
   * “The first reason aria-flowto does not solve the flexbox disconnect, is because it complicates rather than simplifies the problem.”
   * “The CSS “don’t use it” recommendation is unacceptable.”
-* [ ] [Why We're All Addicted to Texts, Twitter and Google](https://www.psychologytoday.com/blog/brain-wise/201209/why-were-all-addicted-texts-twitter-and-google) by Susan Weinschenk
+* [x] [Why We're All Addicted to Texts, Twitter and Google](https://www.psychologytoday.com/blog/brain-wise/201209/why-were-all-addicted-texts-twitter-and-google) by Susan Weinschenk
+	* “…dopamine causes seeking behavior. Dopamine causes you to want, desire, seek out, and search.”
+	* “Evolution again — seeking is more likely to keep you alive than sitting around in a satisfied stupor.”
+	* “It's easy to get in a dopamine induced loop.”
+	* “It becomes harder and harder to stop looking at email, stop texting, or stop checking your cell phone to see if you have a message or a new text.”
+	* “One of the most important things you can do to prevent or stop a dopamine loop, and be more productive is to turn off the cues.”
+	* “But they—notifications—are actually causing you to be like a rat in a cage.”
 * [ ] [Effectively including accessibility into web developer training](http://www.karlgroves.com/2015/12/03/effectively-including-accessibility-into-web-developer-training/) by Karl Groves
 * [ ] [Don’t Be Afraid To Be Personal](https://the-pastry-box-project.net/vitaly-friedman/2015-may-15) by Vitaly Friedman
 * [ ] [Give Grunt the Boot! A Guide to Using npm as a Build Tool](http://www.sitepoint.com/guide-to-npm-as-a-build-tool/) by Peter Dierx
@@ -137,6 +143,7 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 		2. **Activating** the element that currently has focus
 	- “Keyboard usability benefits everyone”
 	- “Some people simply prefer the keyboard as a more efficient input method.”
+- [x] [Progressive Enhancement Makes Me Sad](http://www.heydonworks.com/article/progressive-enhancement-makes-me-sad)
 
 ## Watch list
 
