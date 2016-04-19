@@ -143,7 +143,10 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 		2. **Activating** the element that currently has focus
 	- “Keyboard usability benefits everyone”
 	- “Some people simply prefer the keyboard as a more efficient input method.”
-- [x] [Progressive Enhancement Makes Me Sad](http://www.heydonworks.com/article/progressive-enhancement-makes-me-sad)
+- [x] [Progressive Enhancement Makes Me Sad](http://www.heydonworks.com/article/progressive-enhancement-makes-me-sad) by Heydon Works
+- [ ] [How I audit a website for accessibility](http://marcysutton.com/how-i-audit-a-website-for-accessibility) by Marcy Sutton
+- [ ] [Accessibility and the Shadow DOM](http://marcysutton.com/accessibility-and-the-shadow-dom/) by Marcy Sutton
+- [ ] [Set Your Measure: Optimizing Line Length for Reading](http://adamdscott.com/set-your-measure-optimizing-line-length-for-reading/)
 
 ## Watch list
 
@@ -246,7 +249,8 @@ A list of software I use, want to use, or have used, and thoughts on those.
 * [CSS Day](http://cssday.nl/2016) in Amsterdam
 * [CSSconf](http://cssconf.no) in Oslo
 * [ScotlandCSS Call for Speakers](http://scotlandcss.com/cfp/)
-* [CascadiaFEST Call for Speakers](https://speak.cascadiafest.org/)
+* [CascadiaFEST Call for Speakers](https://speak.cascadiafest.org/) — Submitted!
+* [From the Front](https://2016.fromthefront.it/)
 
 ## Courses
 
