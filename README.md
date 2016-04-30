@@ -147,6 +147,9 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 - [ ] [How I audit a website for accessibility](http://marcysutton.com/how-i-audit-a-website-for-accessibility) by Marcy Sutton
 - [ ] [Accessibility and the Shadow DOM](http://marcysutton.com/accessibility-and-the-shadow-dom/) by Marcy Sutton
 - [ ] [Set Your Measure: Optimizing Line Length for Reading](http://adamdscott.com/set-your-measure-optimizing-line-length-for-reading/)
+- [ ] [Danger! ARIA tabs](http://simplyaccessible.com/article/danger-aria-tabs/) by Jeff Smith
+	- “But ARIA is tricky, even if you’re using it in a technically correct way.” This is true; it's not easy to work out how all the pieces fit together.
+	- 
 
 ## Watch list
 
@@ -255,3 +258,48 @@ A list of software I use, want to use, or have used, and thoughts on those.
 ## Courses
 
 * [Gravity! From the Big Bang to Black Holes](https://www.futurelearn.com/courses/gravity)
+
+## Games
+
+List of games I own on the PS4. Check when finished. 
+
+- [ ] GTA III
+- [ ] GTA Vice City
+- [ ] GTA San Andreas
+- [x] GTA V
+- [x] Firewatch
+- [x] Beyond: Two Souls
+- [x] The Last of Us
+- [x] Uncharted 1
+- [x] Uncharted 2
+- [ ] Uncharted 3
+- [ ] Heavy Rain
+- [ ] Alien (probably not going to finish this)
+- [x] Battlefield 4
+- [x] Life is Strange
+- [x] Tomb Raider
+- [x] Flower
+
+### Games you can't really finish
+
+- Project CARS
+- NBA 2k15
+- FIFA 15
+- Pure Pool
+- No Man's Sky
+
+## Domains
+
+I always forget which ones are mine…
+
+agosto.nl
+aria.guide
+codingkittens.com
+gridlayout.eu
+michielbijl.nl
+rawr.eu
+roledrinks.nl
+
+### Client domains
+acquavista.nl
+etwak.nl
