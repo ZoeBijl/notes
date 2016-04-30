@@ -292,14 +292,14 @@ List of games I own on the PS4. Check when finished.
 
 I always forget which ones are mine…
 
-agosto.nl
-aria.guide
-codingkittens.com
-gridlayout.eu
-michielbijl.nl
-rawr.eu
-roledrinks.nl
+- agosto.nl
+- aria.guide
+- codingkittens.com
+- gridlayout.eu
+- michielbijl.nl
+- rawr.eu
+- roledrinks.nl
 
 ### Client domains
-acquavista.nl
-etwak.nl
+- acquavista.nl
+- etwak.nl
