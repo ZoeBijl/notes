@@ -138,18 +138,24 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 * [ ] [The Art of Consensus](https://www.w3.org/Guide/)
 * [ ] [Why I got into this and why I’m still here](http://simplyaccessible.com/article/why-i-got-into-this/) by Elle Waters
 * [x] [Why Keyboard Usability Is More Important Than You Think](https://www.usertesting.com/blog/2014/10/08/why-keyboard-usability-is-more-important-than-you-think/) by David Sloan and Sarah Horton
-	- Two fundamental actions that form the basis of keyboard interaction:
+	* Two fundamental actions that form the basis of keyboard interaction:
 		1. **Moving focus** to the next active element on a page
 		2. **Activating** the element that currently has focus
-	- “Keyboard usability benefits everyone”
-	- “Some people simply prefer the keyboard as a more efficient input method.”
-- [x] [Progressive Enhancement Makes Me Sad](http://www.heydonworks.com/article/progressive-enhancement-makes-me-sad) by Heydon Works
-- [ ] [How I audit a website for accessibility](http://marcysutton.com/how-i-audit-a-website-for-accessibility) by Marcy Sutton
-- [ ] [Accessibility and the Shadow DOM](http://marcysutton.com/accessibility-and-the-shadow-dom/) by Marcy Sutton
-- [ ] [Set Your Measure: Optimizing Line Length for Reading](http://adamdscott.com/set-your-measure-optimizing-line-length-for-reading/)
-- [ ] [Danger! ARIA tabs](http://simplyaccessible.com/article/danger-aria-tabs/) by Jeff Smith
+	* “Keyboard usability benefits everyone”
+	* “Some people simply prefer the keyboard as a more efficient input method.”
+* [x] [Progressive Enhancement Makes Me Sad](http://www.heydonworks.com/article/progressive-enhancement-makes-me-sad) by Heydon Works
+* [ ] [How I audit a website for accessibility](http://marcysutton.com/how-i-audit-a-website-for-accessibility) by Marcy Sutton
+* [ ] [Accessibility and the Shadow DOM](http://marcysutton.com/accessibility-and-the-shadow-dom/) by Marcy Sutton
+* [ ] [Set Your Measure: Optimizing Line Length for Reading](http://adamdscott.com/set-your-measure-optimizing-line-length-for-reading/)
+* [x] [Danger! ARIA tabs](http://simplyaccessible.com/article/danger-aria-tabs/) by Jeff Smith
 	- “But ARIA is tricky, even if you’re using it in a technically correct way.” This is true; it's not easy to work out how all the pieces fit together.
-	- 
+	- This article preaches wrong practices
+* [x] [Placeholders are problematic](https://medium.com/simple-human/10-reasons-why-placeholders-are-problematic-f8079412b960#.fvsr67k9e) by Adam Silver
+	* This article has a shitty title
+	* “But it’s okay if they are used in addition to labels right?” “Not particularly. Its certainly better but it’s still problematic.”
+	* “If you’re trying to help the user, the best place to start is to always include a clear, always-visible label.”
+	* Most desturbing of all was in the commnets: “Apple just released this in the Beta of their new Human Interface Guidelines: ‘Don’t use a separate label to describe a text field when placeholder text is sufficient.’”
+		* Which is in [tvOS' HIG](https://developer.apple.com/tvos/human-interface-guidelines/ui-elements/#text-search).
 
 ## Watch list
 
@@ -166,6 +172,8 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 * [x] [The Fallen of World War II](https://vimeo.com/128373915)
 	* Puts things in perspective
 	* Also see [version with interactive chart](http://www.fallen.io/ww2/)
+* [x] [PWAs in any context](https://www.youtube.com/watch?v=8dr_IUGwsO0) by Rob Dodson
+	* Interesting video with some good points and examples.
 
 ## ARIA code example
 
@@ -190,6 +198,7 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 * [ally.js](http://allyjs.io)
 * [Nu HTML Checker](https://validator.w3.org/nu/)
 * [Pa11y](http://pa11y.org/)
+* [Frend](https://frend.co)
 
 ## Slides
 
@@ -212,38 +221,39 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 A list of software I use, want to use, or have used, and thoughts on those.
 
 * OS X
-	  * Has been getting worse (and way to heavy for HDD based Macs) but still offers the best experience for me.
+	* Has been getting worse (and way to heavy for HDD based Macs) but still offers the best experience for me.
 * iTunes
-	  * Since the iOS 9 update I have replaced iTunes with Spotify on both OS X and iOS.
-	  * Has screwed me over with weird design choices since 2001…
+	* Since the iOS 9 update I have replaced iTunes with Spotify on both OS X and iOS.
+	* Has screwed me over with weird design choices since 2001…
 * Spotify
-	  * _love_ it, fast, easy, has everything I want (well, most of the time).
+	* _love_ it, fast, easy, has everything I want (well, most of the time).
 * Sublime Text
-	  * Lack of a “use packages” menu really bugs me. (Maybe there is a package for that).
-	  * Performance with larger files is good.
+	* Lack of a “use packages” menu really bugs me. (Maybe there is a package for that).
+	* Performance with larger files is good.
 * Atom
-	  * Used thise for about a year and really like it.
-	  * Performance with larger files is an issue.
+	* Used thise for about a year and really like it.
+	* Performance with larger files is an issue.
 * TextMate
-	  * Has good accessibility.
+	* Has good accessibility.
+	* Doesn't mess with formatting by default
 * Pixelmator
-	  * Great product for its price.
-	  * Lacks some usability / clearity in certain parts.
+	* Great product for its price.
+	* Lacks some usability / clearity in certain parts.
 * Things
-	  * Maybe it's not the best experience on mobile, but it has served me on both iOS and OS X since 2009.
-	  * Lack of accessibility in OS X UI. Should report this to them some day (maybe do an audit).
+	* Maybe it's not the best experience on mobile, but it has served me on both iOS and OS X since 2009.
+	* Lack of accessibility in OS X UI. Should report this to them some day (maybe do an audit).
 * Clear
-	  * Lack of contrast on lower priority items really bugs me.
+	* Lack of contrast on lower priority items really bugs me.
 * Safari
-	  * My favourite browser since 2003.
+	* My favourite browser since 2003.
 * Chrome
-	  * Have been using this more in recent months.
-	  * Good accessibility tools are a reason to use.
+	* Have been using this more in recent months.
+	* Good accessibility tools are a reason to use.
 * IRCCloud
-	  * Was recommended to me by Marco Zehe; so accessibility ought to be good.
-	  * Really like to use it, cleaner interface than something like Gitter or Slack.
-	  * Well worth the 4 euro/month fee.
-	  * Comes in very handy for W3C meetings (and on the go).
+	* Was recommended to me by Marco Zehe; so accessibility ought to be good.
+	* Really like to use it, cleaner interface than something like Gitter or Slack.
+	* Well worth the 4 euro/month fee.
+	* Comes in very handy for W3C meetings (and on the go).
 
 ## Music
 
@@ -283,7 +293,8 @@ List of games I own on the PS4. Check when finished.
 - [x] Tomb Raider
 - [x] Flower
 - [x] Gone Home
-- [x] NBA 2k16 (Story Mdoe)
+- [x] NBA 2k16 (Story Mode)
+- [ ] Need for Speed Rivals
 
 ### Games you can't really finish
 
