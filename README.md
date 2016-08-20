@@ -156,6 +156,7 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 	* “If you’re trying to help the user, the best place to start is to always include a clear, always-visible label.”
 	* Most desturbing of all was in the commnets: “Apple just released this in the Beta of their new Human Interface Guidelines: ‘Don’t use a separate label to describe a text field when placeholder text is sufficient.’”
 		* Which is in [tvOS' HIG](https://developer.apple.com/tvos/human-interface-guidelines/ui-elements/#text-search).
+* [ ] [Make the Web Work For Everyone](https://medium.com/mozilla-tech/make-the-web-work-for-everyone-db7f11304fde#.ihjfp0hmd) by Justin Crawford, Chris Mills, and Ali Spivak
 
 ## Watch list
 
@@ -174,6 +175,9 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 	* Also see [version with interactive chart](http://www.fallen.io/ww2/)
 * [x] [PWAs in any context](https://www.youtube.com/watch?v=8dr_IUGwsO0) by Rob Dodson
 	* Interesting video with some good points and examples.
+* [x] [Don't Be a Sucker](https://www.youtube.com/watch?v=Ag40XYIj4hE)
+	* Still relevant today.
+* [x] [Wanderers](https://vimeo.com/108650530) by Erik Wernquist
 
 ## ARIA code example
 
@@ -258,6 +262,7 @@ A list of software I use, want to use, or have used, and thoughts on those.
 ## Music
 
 * [Field Division](http://www.fielddivisionmusic.com/)
+* Zeke
 
 ## Conferences
 
@@ -315,6 +320,8 @@ I always forget which ones are mine…
 - michielbijl.nl
 - rawr.eu
 - roledrinks.nl
+- roledrinks.uk
+- roledrinks.com
 
 ### Client domains
 - acquavista.nl
