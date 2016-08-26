@@ -157,10 +157,24 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 	* Most desturbing of all was in the commnets: “Apple just released this in the Beta of their new Human Interface Guidelines: ‘Don’t use a separate label to describe a text field when placeholder text is sufficient.’”
 		* Which is in [tvOS' HIG](https://developer.apple.com/tvos/human-interface-guidelines/ui-elements/#text-search).
 * [ ] [Make the Web Work For Everyone](https://medium.com/mozilla-tech/make-the-web-work-for-everyone-db7f11304fde#.ihjfp0hmd) by Justin Crawford, Chris Mills, and Ali Spivak
+* [x] [Looking Back at iOS Accessibility’s Biggest Milestones](https://512pixels.net/2016/08/ios-accessibility-milestones/) by Steven Aquino
+	* “Considering the usability gains I get from Dynamic Type, I strongly believe every developer should adopt it right away if they aren’t already supporting it. Text is a basic part of any piece of software, and I’m surely not the only person with low vision (or tired/aging eyes, for that matter) who benefits immensely from larger text.”
+	* “This sense of empowerment and independence is exactly what Switch Control (and the purpose of any accessibility feature, really) is designed to do.”
+* [x] [Better keyboard navigation with progressive enhancement](https://www.christianheilmann.com/2016/08/15/better-keyboard-navigation-with-progressive-enhancement/) by Christian Heilmann
+* [x] [Writing damn less code](http://www.heydonworks.com/article/on-writing-less-damn-code) by Heydon Pickering
+	* “No, the universal selector will not kill your performance. That’s bunkum.”
+* [x] [Using the fieldset and legend elements](https://accessibility.blog.gov.uk/2016/07/22/using-the-fieldset-and-legend-elements/) by Léonie Watson
+	* You should use the <fieldset> and <legend> elements when:
+		* You have a single multiple choice question (using radio buttons or checkboxes).
+		* You have several questions relating to the same topic (like text boxes, or any other type of field).
+* [x] [Passion For Independence](https://www.accessible-japan.com/passion-for-independence/) by Maureen T. Corrigan
+	* “Miwa’s passion for equal accessibility on public transport is a fight for a human right from which I, and many others, will benefit.”
+* [x] [Designing for people you didn't know existed](http://www.kaylaheffernan.com/blog/2015/8/21/designing-for-people-you-didnt-know-existed) by Kayla Heffernan
+* [ ] [This blind Apple engineer is transforming the tech world at only 22](http://mashable.com/2016/07/10/apple-innovation-blind-engineer/#FsiNG1IRmOqJ) by Katie Dupere
+
 
 ## Watch list
 
-* [ ] [Open Con 2015](http://www.opencon2015.org/resources_opencon2015) (Should pick a couple)
 * [x] [Can you read me lips?](https://vimeo.com/148127830) starring Rachel Kolb 
 * [ ] [Tenon.io Training Demo](https://www.youtube.com/watch?v=d_ZsXr0da_k) by Karl Groves
 * [ ] [Improving Single Page App Accessibility with a11y_kit](https://vimeo.com/117614181) by Patrick Fox
@@ -203,6 +217,7 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 * [Nu HTML Checker](https://validator.w3.org/nu/)
 * [Pa11y](http://pa11y.org/)
 * [Frend](https://frend.co)
+* [eBay MIND](https://ebay.gitbooks.io/mindpatterns/content/index.html)
 
 ## Slides
 
