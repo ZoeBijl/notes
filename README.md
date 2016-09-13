@@ -171,6 +171,7 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 	* “Miwa’s passion for equal accessibility on public transport is a fight for a human right from which I, and many others, will benefit.”
 * [x] [Designing for people you didn't know existed](http://www.kaylaheffernan.com/blog/2015/8/21/designing-for-people-you-didnt-know-existed) by Kayla Heffernan
 * [ ] [This blind Apple engineer is transforming the tech world at only 22](http://mashable.com/2016/07/10/apple-innovation-blind-engineer/#FsiNG1IRmOqJ) by Katie Dupere
+* [x] [The Language of Addresses](https://data.blog.gov.uk/2016/08/19/the-language-of-addresses/) by Jen Lambourne
 
 
 ## Watch list
