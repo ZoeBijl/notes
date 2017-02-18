@@ -172,12 +172,17 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 * [x] [Designing for people you didn't know existed](http://www.kaylaheffernan.com/blog/2015/8/21/designing-for-people-you-didnt-know-existed) by Kayla Heffernan
 * [ ] [This blind Apple engineer is transforming the tech world at only 22](http://mashable.com/2016/07/10/apple-innovation-blind-engineer/#FsiNG1IRmOqJ) by Katie Dupere
 * [x] [The Language of Addresses](https://data.blog.gov.uk/2016/08/19/the-language-of-addresses/) by Jen Lambourne
-* [ ] [Making Tau Station an accessible game](http://taustation.space/blog/making-tau-station-an-accessible-game/) by Job van Achterberg
+* [x] [Making Tau Station an accessible game](http://taustation.space/blog/making-tau-station-an-accessible-game/) by Job van Achterberg
+* [ ] [When to Use a Switch or Checkbox](http://uxmovement.com/buttons/when-to-use-a-switch-or-checkbox/) by Anthony
+* [x] [Headings and the Seinfeld Pitch
+](http://bkardell.com/blog/On-Headings.html)
+  * Brian is evil I tell ya!
+  * “Imagine instead that we wrote that such that only a "good" tag would take on any meaning at all - even visually. The rest would be explictly Nothing. Then, our insides would match our outsides again. It would be a really good incentive to learn "the right way to convey meaning" and to apply it.”
 
 
 ## Watch list
 
-* [x] [Can you read me lips?](https://vimeo.com/148127830) starring Rachel Kolb 
+* [x] [Can you read me lips?](https://vimeo.com/148127830) starring Rachel Kolb
 * [ ] [Tenon.io Training Demo](https://www.youtube.com/watch?v=d_ZsXr0da_k) by Karl Groves
 * [ ] [Improving Single Page App Accessibility with a11y_kit](https://vimeo.com/117614181) by Patrick Fox
 * [ ] [Accessibility and how to get the most from your screenreader](https://www.youtube.com/watch?v=eAgJ9hV_oOM) by Edd Sowden
@@ -296,7 +301,7 @@ A list of software I use, want to use, or have used, and thoughts on those.
 
 ## Games
 
-List of games I own on the PS4. Check when finished. 
+List of games I own on the PS4. Check when finished.
 
 - [ ] GTA III
 - [ ] GTA Vice City
@@ -325,6 +330,7 @@ List of games I own on the PS4. Check when finished.
 - FIFA 15
 - Pure Pool
 - No Man's Sky
+- F1 2016
 
 ## Domains
 
@@ -337,8 +343,10 @@ I always forget which ones are mine…
 - michielbijl.nl
 - rawr.eu
 - roledrinks.nl
+- roledrinks.eu
 - roledrinks.uk
 - roledrinks.com
+- moiety.me
 
 ### Client domains
 - acquavista.nl
