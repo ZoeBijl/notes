@@ -179,6 +179,36 @@ Not sure if this is the best way to go about a reading list, but I want to explo
   * Brian is evil I tell ya!
   * “Imagine instead that we wrote that such that only a "good" tag would take on any meaning at all - even visually. The rest would be explictly Nothing. Then, our insides would match our outsides again. It would be a really good incentive to learn "the right way to convey meaning" and to apply it.”
 
+* [ ] [The Unicorn Workflow: Design to Code with Atomic Design Principles and Sketch](https://medium.com/re-write/the-unicorn-workflow-design-to-code-with-atomic-design-principles-and-sketch-8b0fe7d05a37) by Joe Toscano
+* [ ] [I don't do Angular, is that OK?](https://dbushell.com/2015/02/04/i-dont-do-angular-is-that-ok/) by David Bushell
+* [ ] [Non-blocking UI's with interface previews](http://www.callumhart.com/blog/non-blocking-uis-with-interface-previews) by Callum Hart
+* [ ] [Why motion matters](http://motionographer.com/2015/07/06/user-interface-design-why-motion-matters/) by Justin Cone
+* [ ] [Don’t punish the humans](https://userexperiences.co/design-ui-don-t-punish-the-humans-53807f955517) Ryan Nance
+* [ ] [Regressive disclosure: designing complex interfaces by reducing choice](http://www.elezea.com/2015/06/regressive-disclosure-designing-complex-interfaces-by-reducing-choice/) by Rian van der Merwe
+* [ ] [UI Animation reviews](http://valhead.com/2015/06/19/screencast-animation-in-responsive-design/) by Val Head
+* [ ] [Transitional Interfaces](https://medium.com/@pasql/transitional-interfaces-926eb80d64e3) by Pasquale D’Silva
+* [ ] [God is in the details](https://medium.com/prevue-app/god-is-in-the-details-bc3a9a9a5d88) by Buzz Usborne
+* [ ] [Accessible HTML video as a background](http://www.punkchip.com/accessible-html-video-as-a-background/) by Emma Sax
+* [ ] [Styling using language attributes](https://www.w3.org/International/questions/qa-css-lang) by Andrew Cunningham and Richard Ishida
+* [ ] [Color vs. Contrast — Which makes you click?](https://medium.com/swlh/color-vs-contrast-which-makes-you-click-38cb719627a2) by Piotr Koczorowski
+* [ ] [Stop forcing your arbitrary password rules on me.](https://ryanwinchester.ca/posts/stop-forcing-your-arbitrary-password-rules-on-me) by Ryan Winchester
+* [ ] [Invisible animation](https://medium.com/@stevenfabre/invisible-animation-ffa27d0b77e5) by Steven Fabre
+* [ ] [Stop solving problems you don't yet have](https://rachelandrew.co.uk/archives/2012/03/21/stop-solving-problems-you-dont-yet-have/) by Rachel Andrew
+* [ ] [Graphic Design for the visually impaired; A neglected dissertation](https://medium.com/@kategreenstock/graphic-design-for-the-visually-impaired-a-neglected-dissertation-211cc8c30b7b) by Kate Greenstock
+* [ ] [Text descriptions and emotion rich images](http://tink.uk/text-descriptions-emotion-rich-images/) by Léonie Watson
+* [ ] [The Invisible](http://www.theinvisibl.com) (HTTP) by Basil Safwat
+* [ ] [Breaking Things](http://www.breakingthin.gs) (HTTP) by Aral Balkan
+* [ ] [Copy and Paste Layer Effects and Vector Attributes](https://www.setopacity.com/articles/2014/10/30/copy-and-paste-layer-effects-and-shape-attributes) by Seth Shaw
+* [ ] [They are your users](http://rikschennink.nl/thoughts/they-are-your-users/) by Rik Schennink
+* [ ] [Accessibility Tools Presentation](http://www.garcialo.com/tools/presentation/summary.html) by Luis Garcia
+* [ ] [SRs: Punctuation and Typographic Symbols](https://www.deque.com/blog/dont-screen-readers-read-whats-screen-part-1-punctuation-typographic-symbols/) by Paul Bohman
+* [ ] [Accessibility: Inclusion is not an illusion](https://arc.applause.com/series/accessibility-inclusion-is-not-an-illusion/) by David Bolton
+* [ ] [How Our CSS Framework Helps Enforce Accessibility](http://www.ebaytechblog.com/2015/11/04/how-our-css-framework-helps-enforce-accessibility/) by Ian McBurnie
+* [x] [An Alphabet of Accessibility Issues](https://the-pastry-box-project.net/anne-gibson/2014-july-31) by Anne Gibson
+* [ ] [Letters, symbols, misrecognition](https://typography.guru/journal/letters-symbols-misrecognition) by Thomas Bohm
+* [x] [Menace](http://hyperboleandahalf.blogspot.nl) by Allie
+* [ ] [Getting started with web accessibility](https://the-pastry-box-project.net/monika-piotrowicz/2014-april-29) by Monika Piotrowicz
+* [ ] [Commercial Benefits of Accessibility](http://ckeditor.com/blog/Commercial-Benefits-of-Accessibility) by CKEditor Blog
 
 ## Watch list
 
@@ -199,6 +229,10 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 * [x] [Don't Be a Sucker](https://www.youtube.com/watch?v=Ag40XYIj4hE)
 	* Still relevant today.
 * [x] [Wanderers](https://vimeo.com/108650530) by Erik Wernquist
+* [x] [What even is a table?](https://vimeo.com/139062429) by Edd Sowden
+* [ ] [Impossible is Nothing](https://www.youtube.com/watch?v=REBA8Aktm5Y) by Robert Pearson
+* [ ] [The Extensible Web, Houdini, and CSS.next](https://vimeo.com/144959009) by Bruce Lawson
+* [x] [Design like we give a damn!](https://vimeo.com/110965713) by Léonie Watson
 
 ## ARIA code example
 
@@ -230,6 +264,10 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 
 * [ ] [CSS Best Practices](http://fantasai.inkedblade.net/style/talks/best-practices/) by Fantasai
 * [ ] [Accessibility Nerdvana](https://docs.google.com/presentation/d/1FdtnfClD0opNv3nXZYDdgoj-rNEg1o_VW2YJo0dljaw/present?slide=id.g50e70a5e1_0_0) by Steve Faulkner
+* [ ] [Accessibility at the BBC](https://www.slideshare.net/IanPouncey/accessibility-at-the-bbc) by Ian Pouncy
+* [ ] [TEXT: A prosaic talk about accessibility](http://slides.com/heydon/text-a-prosaic-talk-about-accessibility/) by Heydon Pickering
+* [ ] [HTML 101](http://www.garcialo.com/html101/index.html) by Luis Garcia
+* [ ] [Extended rock nroll guide to HTML5 & ARIA](https://www.slideshare.net/LeonieWatson/extended-rock-n-roll-guide-to-html5-aria-2014) by Léonie Watson
 
 ## Random thoughts
 
@@ -312,7 +350,8 @@ List of games I own on the PS4. Check when finished.
 - [x] The Last of Us
 - [x] Uncharted 1
 - [x] Uncharted 2
-- [ ] Uncharted 3
+- [x] Uncharted 3
+- [x] Uncharted 4
 - [ ] Heavy Rain
 - [ ] Alien (probably not going to finish this)
 - [x] Battlefield 4
@@ -351,3 +390,10 @@ I always forget which ones are mine…
 ### Client domains
 - acquavista.nl
 - etwak.nl
+
+
+## Resources
+
+- [High Quality Photos you can use for free](Sites with High Quality Photos You Can Use for Free)
+- [Unsplash](https://unsplash.com)
+- [Accessible media player resources and demos](http://www.iheni.com/accessible-media-player-resources/) by Henny Swan
