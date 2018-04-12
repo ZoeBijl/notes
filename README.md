@@ -216,6 +216,11 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 	* “Something as trivial as a decision to not support special characters on a form can lead to really complicated issues for people on the other end of this form, so, let’s take those decisions, wisely shall we?”
 	* “Some people might have an apostrophe in their last name (hello Scott O’Hara, Irish and Dutch people among many others), some people might have names with kanjis, Arabic, Cyrillic characters, etc. and they will mostly have the same issues as I have, or even worse.”
 	* “Be conservative in what you send, be liberal in what you accept”
+* [x] [Is the Confidence Gap Between Men and Women a Myth?](https://hbr.org/2018/03/is-the-confidence-gap-between-men-and-women-a-myth?utm_campaign=hbr&utm_source=twitter&utm_medium=social) by Laura Guillen | 2018-03-26
+	* “Regardless of how confident a woman feels, we focused on what we termed self-confidence appearance — that is, the extent to which others perceive a woman as self-confident.”
+	* “We found that even among similarly high-performing workers, appearing self-confident did not translate into influence equally for men and women. For women, but not for men, influence was closely tied to perceptions of warmth — how caring and prosocial they seemed. Moreover, women’s self-reported confidence did not correlate with how confident these women appeared to others.”
+* [x] [Swimming in Privilege](https://medium.com/@dunn/swimming-in-privilege-e517e4003b7c) by Andy Dunn
+* [x] [Why authors should avoid aria-relevant](https://medium.com/dev-channel/why-authors-should-avoid-aria-relevant-5d3164fab1e3) by Aaron Leventhal and Rob Dodson
 
 ## Watch list
 
