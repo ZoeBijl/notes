@@ -221,6 +221,13 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 	* “We found that even among similarly high-performing workers, appearing self-confident did not translate into influence equally for men and women. For women, but not for men, influence was closely tied to perceptions of warmth — how caring and prosocial they seemed. Moreover, women’s self-reported confidence did not correlate with how confident these women appeared to others.”
 * [x] [Swimming in Privilege](https://medium.com/@dunn/swimming-in-privilege-e517e4003b7c) by Andy Dunn
 * [x] [Why authors should avoid aria-relevant](https://medium.com/dev-channel/why-authors-should-avoid-aria-relevant-5d3164fab1e3) by Aaron Leventhal and Rob Dodson
+* [x] [Why girls can be boyish but boys can't be girlish](https://edition.cnn.com/2018/04/12/health/boys-girls-gender-norms-parenting-strauss/index.html?no-st=1523865497) by Elissa Strauss
+	* “A bedazzled ninja turtle or a feature film about a peasant boy who falls hopelessly in love with princess would help all children feel more emboldened by their girlier proclivities.”
+		* [Isn’t that Aladdin?](https://twitter.com/MichielBijl/status/985804721633087490)
+	* “Remember, you still have 20th-century leadership marketing to 21st-century young adults. As these young adults move their way up through the ladder, you are going to see more and more gender neutrality.”
+	* “My son freely and easily identifies as a boy. He doesn't need our help in his rejection of the label of "boy"; he needs the meaning of that label to expand.”
+	* “If women are not perceived to be fully within the structures of power, surely it is power that we need to redefine rather than women?”
+
 
 ## Watch list
 
