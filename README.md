@@ -227,7 +227,9 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 	* “Remember, you still have 20th-century leadership marketing to 21st-century young adults. As these young adults move their way up through the ladder, you are going to see more and more gender neutrality.”
 	* “My son freely and easily identifies as a boy. He doesn't need our help in his rejection of the label of "boy"; he needs the meaning of that label to expand.”
 	* “If women are not perceived to be fully within the structures of power, surely it is power that we need to redefine rather than women?”
-
+* [x] [Help! someone has pointed out my conference has diversity issues!](https://medium.com/samsung-internet-dev/help-someone-has-pointed-out-my-conference-has-diversity-issues-c1162a1e8d4c) by Ada Rose Cannon
+	* “Don’t ask people from underrepresented background to help you with your diversity work for free, their work has value.”
+* [x] [Ik koester wrok tegen onbeschofte tweewielers](https://profielen.hr.nl/2018/gezellig-door-de-stad-wandelen-is-niet-aan-mij-besteed/) by Darice de Cuba
 
 ## Watch list
 
