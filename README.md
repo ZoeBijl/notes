@@ -285,6 +285,7 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 * [Pa11y](http://pa11y.org/)
 * [Frend](https://frend.co)
 * [eBay MIND](https://ebay.gitbooks.io/mindpatterns/content/index.html)
+* [Parable of the Polygons](http://ncase.me/polygons/)
 
 ## Slides
 
