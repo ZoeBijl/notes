@@ -24,12 +24,27 @@
 	* “Nee, ik heb niet vijf jaar lang hormonen geslikt en therapie gevolgd om vervolgens naar een genderneutraal toilet te gaan.”
 	* “Wat is precies het doel van aparte toiletten? Als genderneutrale toiletten een groep mensen in de samenleving helpen om zich comfortabeler te voelen, moeten we er snel mee beginnen.”
 	* “Ik vind het ontzettend nodig. Voor mij is de vraag niet: waarom hebben we genderneutrale toiletten nodig, maar: waarom niet?”
+* [x] [Zo ziet genderneutrale taal in Europa eruit](https://www.nrc.nl/nieuws/2017/11/15/leserin-leser-of-toch-maar-liever-lesecs-14023710-a1581184) by Juurd Eijsvoogel & Peter Vermaas
+	* “Vermijd dus ‘Meneer’ of ‘Mevrouw’. Ik verheug me op uw creatieve, anti-discriminerende ideeën.”
+	* “Ik wil dat mensen erover gaan nadenken dat geslacht niet een natuurlijke categorie is: of man of vrouw.”
+* [x] [‘Geachte dames en heren?’ Liever niet, adviseert genderneutrale taalgids](https://www.nrc.nl/nieuws/2017/07/26/geachte-dames-en-heren-nee-liever-niet-12257592-a1568036) by Marije Willems
 
 ## Websites
 
+* [Transgender Infopunt](https://transgenderinfo.be)
+* [Transgender Info Nederland](https://www.transgenderinfo.nOP HET WERKl)
+	* [Op het werk](https://www.transgenderinfo.nl/op-het-werk/)
+	* [Psychologie, vragen en gevoelens](https://www.transgenderinfo.nl/vragen-gevoelens/)
 * [OneWorld: Harlot](https://www.oneworld.nl/categorie/harlot/)
+
+## Resources
+
+* [Geachte / Beste (als aanhef)](http://taaladvies.net/taal/advies/vraag/1323/geachte_beste_als_aanhef/)
 
 ## Quotes
 
 > Talk about “people who have periods” and “pregnant people” because not all people who have periods or get pregnant are women.
 > —Jill, https://twitter.com/jillysull/status/989612055308259329
+
+> If you think trans ppl get upset when you misgender them, you should see how badly cis ppl take it.
+> —Rosaline, https://twitter.com/rosalinekarr/status/989997728716423170
