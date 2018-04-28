@@ -230,6 +230,7 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 * [x] [Help! someone has pointed out my conference has diversity issues!](https://medium.com/samsung-internet-dev/help-someone-has-pointed-out-my-conference-has-diversity-issues-c1162a1e8d4c) by Ada Rose Cannon
 	* “Don’t ask people from underrepresented background to help you with your diversity work for free, their work has value.”
 * [x] [Ik koester wrok tegen onbeschofte tweewielers](https://profielen.hr.nl/2018/gezellig-door-de-stad-wandelen-is-niet-aan-mij-besteed/) by Darice de Cuba
+* [x] [The Complementary Image](https://medium.com/@svinkle/the-complimentary-image-60a495adee63) by Scott Vinkle
 
 ## Watch list
 
