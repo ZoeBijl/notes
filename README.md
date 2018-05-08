@@ -231,6 +231,7 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 	* “Don’t ask people from underrepresented background to help you with your diversity work for free, their work has value.”
 * [x] [Ik koester wrok tegen onbeschofte tweewielers](https://profielen.hr.nl/2018/gezellig-door-de-stad-wandelen-is-niet-aan-mij-besteed/) by Darice de Cuba
 * [x] [The Complementary Image](https://medium.com/@svinkle/the-complimentary-image-60a495adee63) by Scott Vinkle
+* [x] [Is there any value in people who cannot write JavaScript?](https://medium.com/@mandy.michael/is-there-any-value-in-people-who-cannot-write-javascript-d0a66b16de06) by Mandy Michael
 
 ## Watch list
 
