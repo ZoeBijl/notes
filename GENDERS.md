@@ -32,7 +32,7 @@
 ## Websites
 
 * [Transgender Infopunt](https://transgenderinfo.be)
-* [Transgender Info Nederland](https://www.transgenderinfo.nOP HET WERKl)
+* [Transgender Info Nederland](https://www.transgenderinfo.nl)
 	* [Op het werk](https://www.transgenderinfo.nl/op-het-werk/)
 	* [Psychologie, vragen en gevoelens](https://www.transgenderinfo.nl/vragen-gevoelens/)
 * [OneWorld: Harlot](https://www.oneworld.nl/categorie/harlot/)
