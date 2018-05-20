@@ -233,7 +233,9 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 * [x] [The Complementary Image](https://medium.com/@svinkle/the-complimentary-image-60a495adee63) by Scott Vinkle
 * [x] [Is there any value in people who cannot write JavaScript?](https://medium.com/@mandy.michael/is-there-any-value-in-people-who-cannot-write-javascript-d0a66b16de06) by Mandy Michael
 * [x] [Stanford researcher examines how people perceive interruptions in conversation](https://news.stanford.edu/2018/05/02/exploring-interruption-conversation/) by Alex Shashkevich
-* [x] [Why Janelle Monáe’s vagina pants make me cheer](https://www.theguardian.com/lifeandstyle/2018/apr/16/why-janelle-monaes-vagina-pants-make-me-cheer) by Chitra Ramaswamy 
+* [x] [Why Janelle Monáe’s vagina pants make me cheer](https://www.theguardian.com/lifeandstyle/2018/apr/16/why-janelle-monaes-vagina-pants-make-me-cheer) by Chitra Ramaswamy
+* [x] [Tiny Life Tip: Do One Small Task Every Single Day As A Gift To Future You
+](https://www.buzzfeed.com/rachelwmiller/do-one-thing-every-single-day-for-future-you) by Rachel Wilkerson Miller
 
 ## Watch list
 
