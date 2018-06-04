@@ -28,6 +28,11 @@
 	* “Vermijd dus ‘Meneer’ of ‘Mevrouw’. Ik verheug me op uw creatieve, anti-discriminerende ideeën.”
 	* “Ik wil dat mensen erover gaan nadenken dat geslacht niet een natuurlijke categorie is: of man of vrouw.”
 * [x] [‘Geachte dames en heren?’ Liever niet, adviseert genderneutrale taalgids](https://www.nrc.nl/nieuws/2017/07/26/geachte-dames-en-heren-nee-liever-niet-12257592-a1568036) by Marije Willems
+* [x] [Finding Graham](https://gistlog.co/greydnls/e5bff1a7c1f85d83c37f5294b9fe8e03)
+	* I've always had intense penis envy. I figured that was pretty normal, right? Especially because I primarily prefer women. All lesbians want penises, right? That's a normal lesbian thing. It's just because I'm a lesbian. Thinking about it now, that's ridiculous, but it's the way my brain processed it. I wanted a penis because they're useful for sleeping with women. I like women. It was logical to me.
+	* So I took the mascara, and I drew a beard. A goatee, actually. It's the same goatee that my dad had the whole time I was growing up. I thought that I would do that, and I'd look in the mirror and I'd see how ridiculous all of this is and then it would stop. I would prove my stupid brain wrong (because let's face it, my brain's an ass and is usually pretty stupid to me).
+	* That face in the mirror felt good. He looked good. He was me.
+	* Even then, I didn't know. I just knew I could start to think about it, start to process it. It was the first step.
 
 ## Websites
 
