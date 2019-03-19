@@ -236,6 +236,7 @@ Not sure if this is the best way to go about a reading list, but I want to explo
 * [x] [Why Janelle Monáe’s vagina pants make me cheer](https://www.theguardian.com/lifeandstyle/2018/apr/16/why-janelle-monaes-vagina-pants-make-me-cheer) by Chitra Ramaswamy
 * [x] [Tiny Life Tip: Do One Small Task Every Single Day As A Gift To Future You
 ](https://www.buzzfeed.com/rachelwmiller/do-one-thing-every-single-day-for-future-you) by Rachel Wilkerson Miller
+* [x] [When "Zoë" !== "Zoë". Or why you need to normalize Unicode strings](https://withblue.ink/2019/03/11/why-you-need-to-normalize-unicode-strings.html) by Alessandro Segala
 
 ## Watch list
 
