@@ -15,3 +15,7 @@
 - [Strawinskyweg 27](https://www.funda.nl/koop/verkocht/veenendaal/huis-41526836-strawinskyweg-27/)
 - [Strawinskyweg 23](https://www.funda.nl/koop/verkocht/veenendaal/huis-40320447-strawinskyweg-23/)
 - [Paganinistraat 26](https://www.funda.nl/koop/veenendaal/huis-41808317-paganinistraat-26/)
+
+## Information
+
+- [Ruimtelijkeplannen.nl](https://www.ruimtelijkeplannen.nl)
