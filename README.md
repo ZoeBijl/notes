@@ -1,6 +1,15 @@
 # Notes
 Open source version of my brain. Now with MIT license!
 
+## Files
+
+- [Stuff about gender](GENDERS.md)
+- [Things for my house](HOUSE.md)
+- [Reading list for 2019](LIST-2019.md)
+- [Reading list for 2020](LIST-2020.md)
+- [Bookmarks](Bookmarks.md)
+
+
 ## Reading list
 
 Not sure if this is the best way to go about a reading list, but I want to explore the option.
